@@ -3,7 +3,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import { Sale } from "../../MODELS/sale";
+import { Sale } from "../../MODELS/Sale/Sale";
 import { BASE_URL } from "../../util/request";
 import NotificationButton from '../NotificationButton'
 import './style.css'

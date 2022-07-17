@@ -1,4 +1,3 @@
-
 export type Sale = {
     id: number;
     sellerName: string;
